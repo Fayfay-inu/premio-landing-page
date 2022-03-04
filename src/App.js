@@ -6,7 +6,6 @@ import ChartSection from "./Components/ChartSection";
 import MessagingSection from "./Components/MessagingSection";
 import PaymentSection from "./Components/PaymentSection";
 import FAQSection from "./Components/FAQSection";
-import questions from "./questions";
 import Footer from "./Components/Footer";
 import { Fade } from "react-reveal";
 

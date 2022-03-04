@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import PrimaryButton from './PrimaryButton';
-import logo from '../img/logo.svg';
+import logo from '../img/cryptoLogo.png';
 import { Fade } from 'react-reveal';
 
 function Navigation() {

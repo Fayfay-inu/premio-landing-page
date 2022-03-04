@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { InnerLayout } from '../styles/Layouts';
-import logo from '../img/logo.svg';
+import logo from '../img/cryptoLogo.png';
 import bg2 from '../img/bg2.svg';
 
 function Footer() {
